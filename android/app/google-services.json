@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974387696788",
+    "firebase_url": "https://belajarflutter-c1788.firebaseio.com",
+    "project_id": "belajarflutter-c1788",
+    "storage_bucket": "belajarflutter-c1788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974387696788:android:4c387bcd725de02be0d081",
+        "android_client_info": {
+          "package_name": "com.example.belajarflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974387696788-p69i3ddptaa4c8p45jn3pk19p67kujmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7tHRusdxmLJdGBLJTSLby7wzNg8gqtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974387696788-p69i3ddptaa4c8p45jn3pk19p67kujmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
