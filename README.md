@@ -1,6 +1,7 @@
 # Flutter
 
-Mobile app development internship project using Flutter
+Mobile app simple project including authentication (sign in, sign out, forgot password) and dasboard (drawer and feature pages).
+Using firebase product (authentication, realtime database, and cloud firestore) as a server.
 
 ## Getting Started
 
