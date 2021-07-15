@@ -1,4 +1,4 @@
-# belajarflutter
+# Flutter
 
 Mobile app development internship project using Flutter
 
