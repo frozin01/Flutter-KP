@@ -1,6 +1,6 @@
 # belajarflutter
 
-A new Flutter project.
+Mobile app development internship project using Flutter
 
 ## Getting Started
 
